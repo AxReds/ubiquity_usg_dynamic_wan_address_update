@@ -16,6 +16,6 @@ To use the script, you'll need to modify the variables at the top of the file to
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU v3.0 License.
 
 Feel free to use and modify this script as you see fit. If you find any issues or have any suggestions for improvement, please feel free to open an issue or submit a pull request.
